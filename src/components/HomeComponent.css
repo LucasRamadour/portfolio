@@ -1,0 +1,13 @@
+.home-component-container{
+    width: 30vw;
+}
+
+.home-component-container>img{
+    width: 30vw;
+    resize: both;
+    object-fit: contain;
+}
+
+.home-component-container>h2 {
+    text-decoration: none;
+}
